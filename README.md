@@ -1,3 +1,3 @@
 # My n8n Project
 
-Update: Testing my automation 
+Update: Testing my automations
